@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="good news podcast" xmlUrl="https://feeds.transistor.fm/the-good-news-podcast" />
+      <outline type="rss" text="daily tech news show" xmlUrl="http://feeds.feedburner.com/DailyTechNewsShow" />
+      <outline type="rss" text="tim ferris show" xmlUrl="https://rss.art19.com/tim-ferriss-show" />
+      <outline type="rss" text="lex friedman" xmlUrl="https://lexfridman.com/feed/podcast/" />
+    </outline>
+  </body>
+</opml>
