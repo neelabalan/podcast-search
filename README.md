@@ -45,4 +45,10 @@ curl -L https://install.meilisearch.com | sh
 # URL = 'http://meilisearch:7700'
 # to
 # URL = 'http://localhost:7700'
+
+git clone https://github.com/neelabalan/podcast-search.git
+cd podcast-search
+
+# pass the OPML export file path as argument
+python fetch_and_load_documents.py podcasts.opml
 ```
